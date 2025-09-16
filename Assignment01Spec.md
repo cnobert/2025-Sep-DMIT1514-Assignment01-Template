@@ -24,7 +24,7 @@ Create a simple 2D scene with a background, a foreground image, and two animated
 | Make the game window the same size as the background image. | 1 |
 | Include a background image, one foreground image, and two properly animated sequences. | 4 |
 | Make an animation move around the screen in response to key input. | 2 |
-| Make an animation both move with input and change its animation depending on the direction of movement. | 2 |
+| Make an animation both move with input and change the direction of its animation depending on the direction of movement. | 2 |
 | Make the moving animation stop at the edges of the screen. | 1 |
 | **Total** | **10** |
 
