@@ -22,9 +22,10 @@ Create a simple 2D scene with a background, a foreground image, and two animated
 | Criterion | Marks |
 |-----------|-------|
 | Make the game window the same size as the background image. | 1 |
-| Include a background image, one foreground image, and two properly animated sequences. | 5 |
+| Include a background image, one foreground image, and two properly animated sequences. | 4 |
 | Make an animation move around the screen in response to key input. | 2 |
 | Make an animation both move with input and change its animation depending on the direction of movement. | 2 |
+| Make the moving animation stop at the edges of the screen. | 1 |
 | **Total** | **10** |
 
 ---
@@ -38,5 +39,5 @@ Create a simple 2D scene with a background, a foreground image, and two animated
 
 ## Submission
 
-- Push your finished project to GitHub  
+- Push your finished project to the GitHub classroom assignment.
 - Be prepared to demonstrate the project to your instructor.  
